@@ -1,12 +1,12 @@
-hash: d48015a9206e0f9ef22368b48fff4debe8522acb9ff65ff7dde2f915efd760dc
-updated: 2017-10-04T11:54:48.197621227+02:00
+hash: fa5bee80ec71e49c73542866b88857edfa9d7a545295162be6cde6da9f795503
+updated: 2017-12-08T15:59:37.15563+01:00
 imports:
 - name: github.com/emicklei/go-restful
   version: ff4f55a206334ef123e4f79bbf348980da81ca46
   subpackages:
   - log
 - name: github.com/giantswarm/operatorkit
-  version: da881f7bb58462fa8b96f06edf0e751efd17f5fb
+  version: 8b3446a2ecbe707fb6ba351b035cd60508af5aec
 - name: github.com/go-openapi/jsonpointer
   version: 46af16f9f7b149af66e5d1bd010e3574dc06de98
 - name: github.com/go-openapi/jsonreference
